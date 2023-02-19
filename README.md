@@ -39,35 +39,42 @@ Base de données :
 <img width="1680" alt="Screenshot 2023-02-19 at 16 55 49" src="https://user-images.githubusercontent.com/84284235/219968500-412d3558-7408-49e5-8ff1-f7addc8743c8.png">
 
 # Question 8 : Déployer le serveur keycloak :
+
      - Créer un Realm :
      
-(https://user-images.githubusercontent.com/84284235/219968553-cf51723b-819a-4653-9710-76bde3e0756d.png)
+<img width="1580" alt="Screenshot 2023-02-19 at 19 48 55" src="https://user-images.githubusercontent.com/84284235/219968707-9126e9eb-da8c-4cf4-9fd9-01a7e6245f15.png">
 
      - Créer un client à sécuriser :
      
-     ![qst8_3](https://user-images.githubusercontent.com/84284235/219968563-4718e4f8-2fac-4ab4-ae53-d4961d3fc1d4.png)
+<img width="1541" alt="Screenshot 2023-02-19 at 19 49 39" src="https://user-images.githubusercontent.com/84284235/219968731-ef4d8add-e3de-4798-a294-8bd68c328145.png">
 
      - Créer des utilisateurs :
      
-     ![qst8_4](https://user-images.githubusercontent.com/84284235/219968574-a63b3a8c-e2bc-4a2d-9a3f-6e61d437db03.png)
-
+<img width="1672" alt="Screenshot 2023-02-19 at 19 50 20" src="https://user-images.githubusercontent.com/84284235/219968765-a39fbd81-1940-4547-a375-a665575c8e1b.png">
 
      - Créer des rôles :
      
-     ![qst8_5](https://user-images.githubusercontent.com/84284235/219968579-5cd7956c-1e5c-4b63-8151-5ecfbbeb6b76.png)
-
-
-     - Affecter les rôles aux utilisateurs :
-     
-     ![qst8_6](https://user-images.githubusercontent.com/84284235/219968589-ae806cef-75ea-423f-aad3-31f5e2e574fe.png)
+<img width="1670" alt="Screenshot 2023-02-19 at 19 50 56" src="https://user-images.githubusercontent.com/84284235/219968791-3609e1ec-2429-4382-ac1a-2516d4bce51c.png">
 
      - Affecter les rôles aux utilisateurs :
      
-     ![qst8_7](https://user-images.githubusercontent.com/84284235/219968597-c1408f6d-b668-4f3c-aa39-b77873353e77.png)
+<img width="1671" alt="Screenshot 2023-02-19 at 19 51 28" src="https://user-images.githubusercontent.com/84284235/219968829-9d6a3fb9-a929-4d71-9ebb-ad8b69740050.png">
+
 
      - Tester les différents modes d'authentification avec Postman en montrant les contenus de Access-Token, Refresh Token :
      
-     ![qst8_9](https://user-images.githubusercontent.com/84284235/219968605-b1a1220b-3d14-4c98-8d80-01645e2d9f11.png)
+<img width="1316" alt="Screenshot 2023-02-19 at 19 52 21" src="https://user-images.githubusercontent.com/84284235/219968858-36f0c61a-48c8-4316-a169-57cbc3ac333a.png">
+
+<img width="805" alt="Screenshot 2023-02-19 at 19 53 07" src="https://user-images.githubusercontent.com/84284235/219968936-3b11334e-a3ca-4b9e-a27f-b5de5e086418.png">
+
+![qst8_8](https://user-images.githubusercontent.com/84284235/219969039-98bd7108-5f4c-4eba-b495-cbaa7aca4787.png)
+
+![qst8_10](https://user-images.githubusercontent.com/84284235/219969041-1d8ab828-9204-4c87-a551-a3f99ff19cea.png)
+
+![qst8_9 (1)](https://user-images.githubusercontent.com/84284235/219969049-2c7bdb9a-6640-4281-a0ec-87d62c518a9a.png)
+
+
+
 
 
 
