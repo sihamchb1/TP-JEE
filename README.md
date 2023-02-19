@@ -32,6 +32,9 @@ Base de données :
 
 ![dynamqieu2](https://user-images.githubusercontent.com/84284235/206560891-e48ff603-1998-422d-ab25-1a5c9e30cb04.PNG)
 
+<img width="1088" alt="SCREEN" src="https://user-images.githubusercontent.com/84284235/219952458-63ddf21d-06ae-412c-ab12-f485fc242bd1.png">
+
+![dynamqieu2](https://user-images.githubusercontent.com/84284235/206560891-e48ff603-1998-422d-ab25-1a5c9e30cb04.PNG)
 
 6-Créer le service de facturation Billing-Service en utilisant Open Feign :
 
