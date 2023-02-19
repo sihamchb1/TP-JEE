@@ -43,5 +43,10 @@ Base de données :
 ![database3](https://user-images.githubusercontent.com/84284235/206561814-b9977197-215f-4b60-8a6b-5c60376c7e98.PNG)
 
 
+7-Créer un client Web Angular (Clients, Produits, Factures) :
+
+<img width="1680" alt="Screenshot 2023-02-19 at 16 33 56" src="https://user-images.githubusercontent.com/84284235/219958137-819343ab-47c9-484e-834c-ba9e1c87554f.png">
+
+<img width="1680" alt="Screenshot 2023-02-19 at 16 55 49" src="https://user-images.githubusercontent.com/84284235/219959321-8cf309a0-7437-4bbe-8e88-255e744dd3eb.png">
 
 
