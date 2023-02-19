@@ -1,44 +1,55 @@
-# Contrôle JEE : 
+# Activité Pratique du Contrôle : 
 
-# Question 1 : Créer le micro-service customer-service qui permet de gérer les client :
+# 1- Créer le micro-service customer-service qui permet de gérer les client :
 
-<img width="1680" alt="Screenshot 2023-02-19 at 19 31 13" src="https://user-images.githubusercontent.com/84284235/219967999-08a0be58-fc48-4052-9dc4-0d5cba6b6f05.png">
-
+![customer-service](https://user-images.githubusercontent.com/84284235/206536417-f75bf200-6260-42ef-a967-26b95aba78bb.PNG)
 
 Base de données :
 
-<img width="770" alt="Screenshot 2023-02-19 at 19 31 56" src="https://user-images.githubusercontent.com/84284235/219968016-aa86db41-cedc-4c79-833e-b9ac13ea7038.png">
+
+![database](https://user-images.githubusercontent.com/84284235/206539961-b8704183-7b41-4479-b213-5d3a93233f47.PNG)
+
+# 2-Créer le micro-service inventory-service qui permet de gérer les produits :
+
+![inventory-service](https://user-images.githubusercontent.com/84284235/206537566-a26b0184-2cb9-415d-a9fd-d3e55cf58a2b.PNG)
+
+# 3- Créer la Gateway Spring cloud Gateway avec une Configuration statique du système de routage :
+
+![gateway](https://user-images.githubusercontent.com/84284235/206551445-f2fdda9b-d477-48f0-9326-264500a5fcfa.PNG)
 
 
-# Question 2 : Créer le micro-service inventory-service qui permet de gérer les produits :
-
-<img width="1679" alt="Screenshot 2023-02-19 at 19 35 27" src="https://user-images.githubusercontent.com/84284235/219968070-fe2aec72-8cd4-4ae4-9fae-e14e39db8088.png">
-
-# Question 3 : Créer la Gateway Spring cloud Gateway avec une Configuration statique du système de routage :
-
-<img width="1046" alt="Screenshot 2023-02-19 at 19 38 49" src="https://user-images.githubusercontent.com/84284235/219968233-43d6bc85-3310-4fb1-a6a0-2230320ec165.png">
-
-# Question 4 : Créer l'annuaire Eureka Discrovery Service :
-
-<img width="1679" alt="Screenshot 2023-02-19 at 19 40 38" src="https://user-images.githubusercontent.com/84284235/219968314-418317a1-5994-4117-8d08-92b15c058a70.png">
+![gateway2](https://user-images.githubusercontent.com/84284235/206551468-50dba741-64ba-4113-93c7-4d983c078241.PNG)
 
 
-# Question 5 :  Faire une configuration dynamique des routes de la gateway :
+# 4- Créer l'annuaire Eureka Discrovery Service :
 
-<img width="1088" alt="SCREEN" src="https://user-images.githubusercontent.com/84284235/219968364-aab7ecdd-bda5-4961-891b-86fd7975bbc9.png">
+![eurika2](https://user-images.githubusercontent.com/84284235/206538944-8db1d6e4-b51e-475b-9145-dc08b09a56d6.PNG)
 
 
-# Question 6 : Créer le service de facturation Billing-Service en utilisant Open Feign :
+# 5- Faire une configuration dynamique des routes de la gateway :
 
-<img width="1680" alt="Screenshot 2023-02-19 at 19 43 15" src="https://user-images.githubusercontent.com/84284235/219968451-7c73895b-2f5f-442b-a3ad-c0ced215e416.png">
+![dynamique1](https://user-images.githubusercontent.com/84284235/206560851-65485f08-be07-42d7-a90d-239f38d223c3.PNG)
 
-# Question 7 : Créer un client Web Angular (Clients, Produits, Factures) :
+![dynamqieu2](https://user-images.githubusercontent.com/84284235/206560891-e48ff603-1998-422d-ab25-1a5c9e30cb04.PNG)
 
-<img width="1680" alt="Screenshot 2023-02-19 at 19 33 04" src="https://user-images.githubusercontent.com/84284235/219968486-4f964145-e2f9-4e5f-82fb-e36a13750db4.png">
+<img width="1088" alt="SCREEN" src="https://user-images.githubusercontent.com/84284235/219952458-63ddf21d-06ae-412c-ab12-f485fc242bd1.png">
 
-<img width="1680" alt="Screenshot 2023-02-19 at 16 55 49" src="https://user-images.githubusercontent.com/84284235/219968500-412d3558-7408-49e5-8ff1-f7addc8743c8.png">
+![dynamqieu2](https://user-images.githubusercontent.com/84284235/206560891-e48ff603-1998-422d-ab25-1a5c9e30cb04.PNG)
 
-# Question 8 : Déployer le serveur keycloak :
+# 6-Créer le service de facturation Billing-Service en utilisant Open Feign :
+
+![database2](https://user-images.githubusercontent.com/84284235/206561776-1cdde843-aafb-4bbc-b6ae-7ed01a0619cb.PNG)
+
+![database3](https://user-images.githubusercontent.com/84284235/206561814-b9977197-215f-4b60-8a6b-5c60376c7e98.PNG)
+
+# 7-Créer un client Web Angular (Clients, Produits, Factures) :
+
+<img width="1680" alt="Screenshot 2023-02-19 at 16 33 56" src="https://user-images.githubusercontent.com/84284235/219969336-11efcce3-88fb-4c4e-80f4-7dd8b79826b1.png">
+
+<img width="1680" alt="Screenshot 2023-02-19 at 16 55 49" src="https://user-images.githubusercontent.com/84284235/219969346-71acc53e-e4f3-4d4d-9b4d-ab1b68cf4eec.png">
+
+
+# 8-Déployer le serveur keycloak :
 
      - Créer un Realm :
      
